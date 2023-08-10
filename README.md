@@ -1,2 +1,2 @@
 # testrepo
-My repo for learning
+My repo for learning git
