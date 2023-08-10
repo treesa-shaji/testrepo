@@ -12,3 +12,5 @@ use_git()
 
 #create a GitHub repo and connect it to your current RStudio project
 use_github()
+
+#try pulling
